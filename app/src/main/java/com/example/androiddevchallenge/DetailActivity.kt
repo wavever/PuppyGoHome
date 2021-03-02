@@ -18,34 +18,19 @@ package com.example.androiddevchallenge
 import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
-import androidx.compose.runtime.Composable
-import androidx.compose.ui.platform.LocalContext
-import androidx.compose.ui.tooling.preview.Preview
-import com.example.androiddevchallenge.ui.home.Home
+import com.example.androiddevchallenge.data.Puppy
+import com.example.androiddevchallenge.ui.detail.Detail
 import com.example.androiddevchallenge.ui.theme.MyTheme
 
-class MainActivity : AppCompatActivity() {
+class DetailActivity : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
             MyTheme {
-                MyApp()
+                val puppy = intent.getSerializableExtra("puppy") as? Puppy ?: return@MyTheme
+                Detail(puppy)
             }
         }
-    }
-}
-
-// Start building your app here!
-@Composable
-fun MyApp() {
-    val context = LocalContext.current
-    Home(context)
-}
-
-@Preview("Light Theme", widthDp = 360, heightDp = 640)
-@Composable
-fun LightPreview() {
-    MyTheme {
-        MyApp()
     }
 }

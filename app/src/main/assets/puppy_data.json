@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Henley",
+    "variety" : "Dachshund & Chihuahua Mix",
+    "location" : "Brenham, TX",
+    "age": "Young",
+    "gender": "Female",
+    "weight": "Small",
+    "color" : "Black",
+    "health" : "Vaccinations up to date, spayed / neutered.",
+    "good_with" : "Other dogs, cats, children.",
+    "not_good_without" : "Other animals. Chickens.",
+    "introduce": "Henley is currently staying with a foster. If you would like to meet her, please contact us at 979-337-7351 so we can arrange a time for everyone to meet at the shelter. Here are a few things the foster family has learned about Henley...",
+    "images": [
+      "Henley1.png",
+      "Henley2.png"
+    ],
+    "phone" : "(979) 337-7351",
+    "e_mail" : "animalservices@cityofbrenham.org"
+  },
+  {
+    "name": "KIRA",
+    "variety" : "Beagle Mix",
+    "location" : "West Milford, NJ",
+    "age": "Puppy",
+    "gender": "Female",
+    "weight": "Medium",
+    "color" : "Black, Yellow / Tan / Blond / Fawn",
+    "health" : "Vaccinations up to date.",
+    "good_with" : "Other dogs, cats, children.",
+    "not_good_without" : "Cats.",
+    "introduce": "PLEASE NOTE: If interested in adopting, the first step is to complete an application on our website at www.sherylsden.org Emails do not start the process, applications do. Please understand that we are 100% foster home based and 100% volunteer, we will respond to each application.\n\nKira arrived on February 27th, at 11 weeks of age, weighing in at approx. 10 pounds. Kira is a sweet and loving girl. She been adapting to her foster family very well. She is super friendly and loves everyone she meets. She loves to cuddle. She is a playful pup and enjoys belly rubs. She is being fostered in a home and is doing great getting along with our children and dog. Kira sleeps in her crate overnight and sometimes during the day. Whenever she wants to take a nap after playing, she goes in her crate by herself or will find the nearest person to cuddle and sleep by them or their lap. Kira goes outside for to do her business on a good schedule. She is not overly crazy about toys yet, but she does enjoy chewing bones. Kira is a typical puppy that will need typical puppy training.",
+    "images": [
+      "Kira1.png",
+      "KIra2.png"
+    ],
+    "e_mail" : "Sherylsden@optonline.net"
+  },
+  {
+    "name": "Bruce",
+    "variety" : "Labrador Retriever & Mastiff Mix ",
+    "location" : "Zimmerman, MN",
+    "age": "Puppy",
+    "gender": "Male",
+    "weight": "Medium",
+    "color" : "Brown / Chocolate, White / Cream",
+    "health" : "Vaccinations up to date, spayed / neutered.",
+    "good_with" : "Other dogs, cats, children.",
+    "not_good_without" : "",
+    "introduce": "",
+    "images": [
+      "Bruce1.png",
+      "Bruce2.png"
+    ],
+    "phone" : "",
+    "e_mail" : ""
+  },
+  {
+    "name": "Butch",
+    "variety" : "American Bulldog & Pit Bull Terrier Mix",
+    "location" : "Des Moines, WA",
+    "age": "Adult",
+    "gender": "Male",
+    "weight": "Medium",
+    "color" : "",
+    "health" : "",
+    "good_with" : "Other dogs.",
+    "not_good_without" : "Cats.",
+    "introduce": "Butch, neutered male, 3 years old, 55 lbs, Bulldog/pitbull mix. This guy was found abandoned on the streets of Houston TX. A woman took him in with her two other dogs and cat. Unfortunately Butch went after the cat so he had to be moved. He did great with her two dogs.\nIn Butch's next foster home he was with 4 other dogs. There was an unaltered male in this home that he struggled to make friends. Ultimately we felt it was in his best interest to move him out of that home. He has done wonderful with female dogs- even riding in the back seat with one!\nWe believe he needs slow introductions with resident male dogs and will need to be kept separate until he acclimates.",
+    "images": [
+      "Butch1.png",
+      "Butch2.png"
+    ],
+    "phone" : "1234566",
+    "e_mail" : "heartoftheunderdog.rescue@gmail.com"
+  }
+]
